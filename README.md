@@ -1,6 +1,8 @@
 # docker-by-example
 Docker Container to Teach/Learn By Example
 
+[![](https://badge.imagelayers.io/yogendra/docker-by-example:latest.svg)](https://imagelayers.io/?images=yogendra/docker-by-example:latest 'Get your own badge on imagelayers.io')
+
 This is a docker training project. This project will run as a docker container.
 
 ## Why a Docker Containe?

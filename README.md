@@ -5,7 +5,7 @@ Docker Container to Teach/Learn By Example
 
 This is a docker training project. This project will run as a docker container.
 
-## Why a Docker Containe?
+## Why a Docker Container?
 Keep your regular environment clean.
 
 ## How to run?
